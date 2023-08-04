@@ -1,0 +1,37 @@
+body {
+    background-color: #1c1c26;
+}
+
+h1 {
+
+}
+
+html * {
+    font-family: 'Baiser Circle', serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4444;
+}
+
+h4 {
+    color: #ffffff;
+}
+
+#rounded {
+    border-radius: 25px;
+    width: 30%;
+    height: 10%;
+    margin: 0 auto;
+    padding: 5%;
+    border-style: solid;
+    border-color: #3bcff7;
+}
+
+@font-face {
+    font-family: 'Baiser Circle';
+    src: url('font.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
