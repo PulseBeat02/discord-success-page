@@ -33,8 +33,7 @@ h4 {
     height: 10%;
     margin: 0 auto;
     padding: 5%;
-    border-style: solid;
-    border-color: #3bcff7;
+    background-color: #2a2b41;
 }
 
 #rounded-purple {
