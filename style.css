@@ -2,24 +2,32 @@ body {
     background-color: #1c1c26;
 }
 
-h1 {
-
-}
-
 html * {
     font-family: 'Baiser Circle', serif;
     text-align: center;
+    font-weight: lighter;
 }
 
 h1 {
     color: #ff4444;
+    font-size: 2vw;
 }
 
 h4 {
     color: #ffffff;
+    font-size: 1vw;
 }
 
-#rounded {
+#halvex {
+    width: 30%
+}
+
+#avatar {
+    width: 20%;
+    float: left;
+}
+
+#rounded-blue {
     border-radius: 25px;
     width: 30%;
     height: 10%;
@@ -27,6 +35,16 @@ h4 {
     padding: 5%;
     border-style: solid;
     border-color: #3bcff7;
+}
+
+#rounded-purple {
+    border-radius: 25px;
+    width: 80%;
+    height: 10%;
+    padding: 5%;
+    border-style: solid;
+    border-color: #2a2b41;
+    text-align: left;
 }
 
 @font-face {
